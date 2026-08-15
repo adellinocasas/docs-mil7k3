@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-sfaeh2.kaskustoto66rub.cyou/sitemap.xml
